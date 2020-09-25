@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Vamos criar um dashboard com gráficos dinâmicos utilizando a solução ChartJS. ChartJS é uma poderosa biblioteca JavaScript, sem dependências, que auxilia na criação de gráficos para web através do elemento HTML canvas. E o melhor, a utilização do ChartJS é super simples até mesmo para designers. Vamos focar na parte funcional da biblioteca para criar gráficos de maneira simples e rápida. Vamos criar um dashboard responsivo do inicio ao fim.
 
 ## Available Scripts
 
